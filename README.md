@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mansoor88
 - 👀 I’m interested in customizing code and web application in .net technology
-- 🌱 I’m currently learning python, node, angular and SAP ABAP
+- 🌱 I’m currently learning python, node, angular, Android Development and SAP ABAP
 - 💞️ I’m looking to collaborate on jquery, js, C#, asp.net etc etc
 - 📫 How to reach me you can just ping me here on github i am regular user of it.
 
